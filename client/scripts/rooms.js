@@ -11,3 +11,6 @@ var Rooms = {
   // mark a room as selected, etc.
 
 };
+
+// Allow users to create rooms and enter existing rooms
+//- Rooms are defined by the .roomname property of messages, so you'll need to filter them somehow.
